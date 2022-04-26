@@ -1,1 +1,1 @@
-matrix_calculator
+Матричный калькулятор в Windows Forms
